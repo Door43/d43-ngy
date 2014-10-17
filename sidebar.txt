@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngy:home|Door43 (ngy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngy|d43-ngy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngy/archive/master.zip|d43-ngy.zip]]
+
+**Recent Changes**
+{{changes>ns = ngy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngy|Ethnologue data]]
+
